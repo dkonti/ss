@@ -134,7 +134,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_TRUSTED_ORIGINS = ["https://*.ngrok.io", "https://7e04-102-89-22-42.ngrok-free.app", "https://gracecharis-xoxo.com", "https://psychothemac.pythonanywhere.com",]
 
-'''
+
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'mail.gracecharis-xoxo.com'
 EMAIL_PORT = 465
@@ -149,3 +149,7 @@ EMAIL_USE_SSL = True
 EMAIL_PORT = 465
 EMAIL_HOST_USER = 'melford.deekay@gmail.com'
 EMAIL_HOST_PASSWORD = 'yyft trrs vpps vtlz'
+
+
+
+'''
