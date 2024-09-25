@@ -28,3 +28,4 @@ urllib3
 psycopg2-binary
 whitenoise
 django_sendgrid
+gunicorn
